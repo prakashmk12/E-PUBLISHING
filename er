@@ -19,3 +19,4 @@ numbers.remove(20)
 remove_item = numbers.pop() 
 print("Removed item using pop():", remove_item)
 print("List after removing elements:", numbers)
+dgfchfh
